@@ -1,5 +1,5 @@
 
-# Typescript Countries
+# World Countries
 
 Dünya ülkelerinin listelendiği ve bunun bir veri kaynağıyla yapıldığı bir Typescript uygulaması.
 
